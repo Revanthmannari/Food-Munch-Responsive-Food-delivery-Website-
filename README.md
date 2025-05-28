@@ -44,7 +44,6 @@ Open index.html in your browser:
 bash
 Copy code
 open index.html  # macOS
-# or
 start index.html  # Windows
 Customize the styles.css file to match your branding.
 
