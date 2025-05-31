@@ -37,7 +37,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/food-munch.git
+git clone https://github.com/Revanthmannari/Food-Munch-Responsive-Food-delivery-Website.git
 cd food-munch
 Open index.html in your browser:
 
